@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95463277157",
+    "project_id": "globalspeak-689bd",
+    "storage_bucket": "globalspeak-689bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95463277157:android:9d55b0e8b224168ff97c8c",
+        "android_client_info": {
+          "package_name": "com.example.globalspeak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDma05gBOywLEOrqoteYYHMATqmnjzDOak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
